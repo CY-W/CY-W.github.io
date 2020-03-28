@@ -4,13 +4,40 @@
   
     
     <entry>
-      <title>hhh</title>
-      <link href="/2020/03/27/hhh/"/>
-      <url>/2020/03/27/hhh/</url>
+      <title>Markdown语法</title>
+      <link href="/2020/03/28/markdown-yu-fa/"/>
+      <url>/2020/03/28/markdown-yu-fa/</url>
       
-        <content type="html"><![CDATA[<p>5557575</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于hexo博客的搭建与美化“</title>
+      <link href="/2020/03/28/ji-yu-hexo-bo-ke-de-da-jian-yu-mei-hua/"/>
+      <url>/2020/03/28/ji-yu-hexo-bo-ke-de-da-jian-yu-mei-hua/</url>
+      
+        <content type="html"><![CDATA[<h1 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h1><h2 id="待补"><a href="#待补" class="headerlink" title="待补"></a>待补</h2><h1 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h1><ul><li>hexo框架<ul><li>source文件下，about，categories，tags文件由hexo new page “xxx”生成。</li><li>_config.yml文件中，必改项Site，URL，theme，deploy。</li><li>文件.deploy_git与public由hexo g生成。若更新文件某部分后，网页没有同步显示，可尝试hexo g。</li></ul></li><li>matery主题<ul><li>_config.yml文件注释丰富，根据喜好更改即可。</li><li>注意调整相应的图片、音视频及ejs代码。</li></ul></li></ul><blockquote><p>一定注意.yml和.md文件的空格问题</p></blockquote><h1 id="参考信息"><a href="#参考信息" class="headerlink" title="参考信息"></a>参考信息</h1><p>1.搭建<br>  <a href="https://www.bilibili.com/video/BV1Yb411a7ty/" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Yb411a7ty/</a><br>2.美化<br>  <a href="http://www.lixianglong.cn/2018/12/22/matery/hexo-bo-ke-zhu-ti-zhi-hexo-theme-matery-de-jie-shao/" target="_blank" rel="noopener">http://www.lixianglong.cn/2018/12/22/matery/hexo-bo-ke-zhu-ti-zhi-hexo-theme-matery-de-jie-shao/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> matery </tag>
+            
+        </tags>
       
     </entry>
     
