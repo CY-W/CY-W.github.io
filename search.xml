@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>编码与字符集</title>
+      <link href="/2020/04/14/bian-ma-yu-zi-fu-ji/"/>
+      <url>/2020/04/14/bian-ma-yu-zi-fu-ji/</url>
+      
+        <content type="html"><![CDATA[<h2 id="汉字编码"><a href="#汉字编码" class="headerlink" title="汉字编码"></a>汉字编码</h2><p>输入：区位码，国标码<br>处理：汉字内码<br>输出：汉字字形码<br>国标码 = （区位码）16 + 2020H<br>汉字内码 = （国标码）16 + 2020H</p><p>GB2312 → GBK（Windows默认） → Unicode（UTF-8/UTF-16)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>五十音之か行</title>
       <link href="/2020/03/28/wu-shi-yin-zhi-kaxing/"/>
       <url>/2020/03/28/wu-shi-yin-zhi-kaxing/</url>

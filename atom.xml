@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cy-w.github.io/"/>
-  <updated>2020-03-28T14:19:15.782Z</updated>
+  <updated>2020-04-14T12:38:22.814Z</updated>
   <id>http://cy-w.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编码与字符集</title>
+    <link href="http://cy-w.github.io/2020/04/14/bian-ma-yu-zi-fu-ji/"/>
+    <id>http://cy-w.github.io/2020/04/14/bian-ma-yu-zi-fu-ji/</id>
+    <published>2020-04-14T12:30:08.000Z</published>
+    <updated>2020-04-14T12:38:22.814Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="汉字编码"><a href="#汉字编码" class="headerlink" title="汉字编码"></a>汉字编码</h2><p>输入：区位码，国标码<br>处理：汉字内码<br>输出：汉字字形码<br>国标码 = （区位码）16 + 2020H<br>汉字内码 = （国标码）16 + 2020H</p><p>GB2312 → GBK（Windows默认） → Unicode（UTF-8/UTF-16)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;汉字编码&quot;&gt;&lt;a href=&quot;#汉字编码&quot; class=&quot;headerlink&quot; title=&quot;汉字编码&quot;&gt;&lt;/a&gt;汉字编码&lt;/h2&gt;&lt;p&gt;输入：区位码，国标码&lt;br&gt;处理：汉字内码&lt;br&gt;输出：汉字字形码&lt;br&gt;国标码 = （区位码）16 + 2020H&lt;br&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>五十音之か行</title>
